@@ -1,0 +1,23 @@
+.StudentBox{
+    box-shadow: 0 0 40px -25px #333;
+    padding: 15px;
+    border-radius: 30px;
+}
+
+.StudentData{
+    color: blueviolet;
+}
+
+.StudentBtn{
+    margin-left: 80px;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 19px;
+    border-radius: 50px;
+    border: 1px solid;
+    text-transform: uppercase;
+    text-shadow: 2px 3px 8px rgb(0 0 0 / 10%);
+    color: #fff;
+    background: blueviolet;
+    border-color: blueviolet;
+}

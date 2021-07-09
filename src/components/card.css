@@ -1,0 +1,8 @@
+.card {
+    border-radius: 41px;
+    box-shadow: 0 0 40px -25px #333;
+    background-color: #fff;
+    margin: 20px 60px 20px 60px;
+    padding: 30px;
+    font-family: cursive;
+  }
