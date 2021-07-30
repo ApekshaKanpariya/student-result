@@ -52,8 +52,7 @@ const SaveData = (props) =>{
                     </tr>
                     ))}
                 </tbody>
-            </table>
-                
+            </table>         
         </div>
     )
 }
