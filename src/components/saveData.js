@@ -34,7 +34,6 @@ const SaveData = (props) =>{
                         <th>Result</th>
                         <th>Delete</th>
                         <th>Edit</th>
-
                     </tr>
                 </thead>
                 <tbody>
